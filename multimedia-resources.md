@@ -10,5 +10,11 @@ description: 'Sites with images, audio and video resources'
 
 ## XKCD graph generator
 
-[http://xkcdgraphs.com](http://xkcdgraphs.com)
+{% embed url="http://xkcdgraphs.com" %}
+
+## Free animated fonts for video
+
+{% embed url="https://www.premiumbeat.com/blog/free-animated-fonts/" %}
+
+
 
