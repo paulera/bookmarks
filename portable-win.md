@@ -68,6 +68,24 @@ Linear video editing and post-production tool.
 
 ![](.gitbook/assets/image%20%287%29.png)
 
+## 📹 Logitech C920 Webcam Control
+
+Tool to control Logitech C920/C920E settings as Zoom, Pan, Brightness, Contrast, Saturation and White Balance. This is an original Logitech software.
+
+{% embed url="https://support.logi.com/hc/en-us/articles/360023206274\#matrix" %}
+
+#### How to make it portable
+
+This presumes your camera is working with Windows native drivers. If you need to install drivers too, this is not what you are looking for. 
+
+1. Scroll all the way down and download the [version LWS 2.80 \(or just click here\)](http://www.logitech.com/pub/video/lws/lws280.exe)
+2. Unpack the file `lws280.exe` using the UniExtract app \(find it in this page\)
+3. Inside the unpacked folder, find the file`SharedBin\LWS_SharedBin_Installer_x86.exe`
+4. Unpack `LWS_SharedBin_Installer_x86.exe` , and it will give you the folder with the portable app.
+5. Run the file `LogiDPPApp.exe` to start the app.
+
+![](.gitbook/assets/image%20%2831%29.png)
+
 ## 📺 OBS \(Open Broadcaster Software\)
 
 Tool for managing live compositions of video, pictures and various captures \(screen, camera, audio, mic\). It allows recording and keyboard shortcuts for toggling various setups on the fly.
@@ -78,17 +96,17 @@ Tool for managing live compositions of video, pictures and various captures \(sc
 
 ## 🎨 Paint.NET
 
-Image editor
+Powerful and versatile image editor
 
-How to use portable:
+{% embed url="https://www.dotpdn.com/downloads/pdn.html" %}
+
+#### How to make it portable
 
 1. Get the installer \(paint.net.X.X.XX.install.exe\)
 2. Rename it to ZIP and extract to a folder.
-3. Find the file PaintDotNet\_x64.msi \(or PaintDotNet\_x64.msi if your system is 32 bits\)
+3. Find the file `PaintDotNet_x##.msi` \(depending on your system architecture\)
 4. Extract this file to a folder using UniExtract \(you will find it in this page\)
-5. Move the contents extracted from PaintDotNet\_x\#\#.msi to the folder where you extracted Paint.NET \(same place where PaintDotNet.exe is\), and replace files when asked.
-
-{% embed url="https://www.dotpdn.com/downloads/pdn.html" %}
+5. Move the contents extracted from `PaintDotNet_x##.msi` to the folder where you extracted Paint.NET \(same place where PaintDotNet.exe is\), and replace files when asked.
 
 ![](.gitbook/assets/image%20%2825%29.png)
 
@@ -136,7 +154,7 @@ Instant messaging client
 
 ## 📦 UniExtract2
 
-Extract any kind of file, including Windows Installer packages.
+Extract any kind of file, including Windows Installer packages. Very useful to get the portable binaries from installation packages.
 
 {% embed url="https://github.com/Bioruebe/UniExtract2" %}
 
