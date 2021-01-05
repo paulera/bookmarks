@@ -34,6 +34,12 @@ Internet browser
 
 ![](.gitbook/assets/image%20%2830%29.png)
 
+## 🩸 Colorpicker
+
+{% embed url="https://github.com/Toinane/colorpicker/releases" %}
+
+![](.gitbook/assets/image%20%2832%29.png)
+
 ## 🎥 HandBrake
 
 Convert and resize video files.
