@@ -12,5 +12,9 @@ Convert text into drum beats - [http://typedrummer.com/14mop0](http://typedrumme
 
 ![bgbgbgbgaqqowaqaaqqoiaqaaqqoiiqa](.gitbook/assets/image%20%2819%29.png)
 
+## Blob Opera
+
+{% embed url="https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw?cp=e30." %}
+
 
 
