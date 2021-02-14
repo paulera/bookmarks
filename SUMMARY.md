@@ -11,5 +11,6 @@
   * [Video](multimedia-resources/video.md)
   * [Stuff generators](multimedia-resources/stuff-generators.md)
   * [Books and audiobooks](multimedia-resources/books-and-audiobooks.md)
+  * [APIs](multimedia-resources/apis.md)
 * [Windows portable utils and apps](portable-win.md)
 
