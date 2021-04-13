@@ -186,6 +186,18 @@ How to use it portable: Download the installer, rename it to .ZIP, extract
 
 ![](.gitbook/assets/image%20%2813%29.png)
 
+## 🤢 WinDirStat
+
+Visualise disk usage and identify big folders and files
+
+* Unpack the installer using Uniextract then run windirstat.exe
+
+{% embed url="https://windirstat.net/" %}
+
+![](.gitbook/assets/image%20%2833%29.png)
+
+
+
 ## 📂 Winscp
 
 SFTP and FTP client
